@@ -70,6 +70,6 @@ theme: apollo
 deploy:
   type: git
   repo: git@github.com:juggernaut0425/lishuangtai.com.git
-  name: juggernaut0425
-  email: juggernaut0425@github.com
+  name: lishuangtai 
+  email: juggernaut0425@gmail.com
   

@@ -3,10 +3,10 @@
   "version": "0.0.0",
   "private": true,
   "hexo": {
-    "version": "3.3.5"
+    "version": "4.2.0"
   },
   "dependencies": {
-    "hexo": "^3.3.5",
+    "hexo": "^4.2.0",
     "hexo-browsersync": "^0.2.0",
     "hexo-deployer-git": "^0.2.0",
     "hexo-generator-archive": "^0.1.4",
@@ -19,6 +19,7 @@
     "hexo-renderer-jade": "^0.3.0",
     "hexo-renderer-marked": "^0.2.10",
     "hexo-renderer-stylus": "^0.3.1",
-    "hexo-server": "^0.2.0"
+    "hexo-server": "^0.2.0",
+    "npm": "^6.14.4"
   }
 }
